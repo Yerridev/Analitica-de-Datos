@@ -44,4 +44,4 @@ Pasos:
 3. Explorar los datos importados.
 4. Transformar los datos según sea necesario.
 5. Crear un gráfico sencillo que represente un aspecto relevante de los clientes.
-![[Pasted image 20250501032805.png]]
+![[s1-cap.png]]
